@@ -1,4 +1,4 @@
-<img width="1503" height="730" alt="image" src="https://github.com/user-attachments/assets/d1019a35-f124-4509-b9ca-7e2f9ee1548e" /># FLoRA_Open_Data_IPS
+# FLoRA_Open_Data_IPS
 This is a dataset collected in an Introduction to Data Science course at a university in Australia.
 
 The dataset comprises comprehensive trace data from students using the <a href="https://github.com/Xinyu-Li/FLoRA">FLoRA Engine</a>. Unlike prior SRL studies that emphasise brief, tightly controlled tasks, our two-week assignment captures how SRL unfolds across multiple sessions in authentic higher education contexts. This longer window reveals transitions from initial task definition, goal setting, and strategy selection to active monitoring, iterative revision of problem-solving steps, and reflective adaptation—offering new insights into the dynamics of long-term SRL.
@@ -9,7 +9,7 @@ Comparisons between high- and low-performing students further highlight meaningf
 
 Finally, because participation in FLoRA was voluntary, the dataset includes both users and non-users of GenAI. This contrast enables evaluation of GenAI’s influence on information-seeking strategies and academic performance, clarifying its educational value and informing the design of supports that foster effective self-regulation and improved learning outcomes.
 
-The Data is available at Figshare (https://doi.org/10.6084/m9.figshare.32321499);
+The Data is available at (https://drive.google.com/drive/folders/1pbDrhrdXk0RElhPYZdFy82gf-daRuBmT);
 
 @article{li2025ips_dataset,<br>
 &emsp;&emsp;title={Dataset of GenAI-assisted Information Problem Solving in Education},<br>
